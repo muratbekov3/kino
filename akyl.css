@@ -1,0 +1,39 @@
+#section{
+	color: black;
+	background-color: red;
+}
+p {
+	color: red;
+	font-size: 130%;
+}
+.serif{
+	text-decoration: blink;
+}
+.sansserif{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.monospace{
+	font-family: 'Courier New', Courier, monospace;
+}
+.cursive{
+	font-style:inherit;
+}
+.fantasy{
+	font-style: oblique;
+}
+.arial{
+	font-style: italic;
+}
+.main{
+	height: 150px;
+	width: 400px;
+	background-color: lightskyblue;
+	display: inline-table;
+}
+.paragraph {
+	display: table-cell;
+	vertical-align: middle;
+}
+p{
+	text-shadow: 5px 2px 4px red;
+}
